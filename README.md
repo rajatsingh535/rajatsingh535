@@ -1,4 +1,4 @@
-[!MasterHead](https://th.bing.com/th/id/OIP.4PTAtJa2rkod-p56MKheYgHaHa?rs=1&pid=ImgDetMain)
+![MasterHead](https://th.bing.com/th/id/OIP.4PTAtJa2rkod-p56MKheYgHaHa?rs=1&pid=ImgDetMain)
 
 <h1 align="center">Hi 👋, I'm RAJAT SINGH</h1>
 <h3 align="center">A first-year BTech CSE student passionate about learning competitive programming and full-stack development, eager to solve problems and build impactful web solutions, and a contributor to GSSOC '24.</h3>
