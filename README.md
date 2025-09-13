@@ -6,7 +6,7 @@ I am a 3rd-semester BTech CSE student passionate about **competitive programming
 
 ### 🔧 Skills
 
-- **Languages:** C, C++, JavaScript, HTML, CSS  
+- **Languages:** C, C++, Python , Django , JavaScript, HTML, CSS  
 - **Tools & Frameworks:** React, Node.js, Git, Github
 
 ---
