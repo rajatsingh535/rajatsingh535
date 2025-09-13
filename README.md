@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rajat Singh
 
-I am a 3rd-semester BTech CSE student passionate about **competitive programming** and **full-stack development**. I enjoy learning new technologies and solving problems through code.
+I am a 3rd-semester BTech CSE student passionate about **competitive programming** and **Open Source Contributions**. I enjoy learning new technologies and solving problems through code.
 
 ---
 
